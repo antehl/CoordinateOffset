@@ -26,7 +26,7 @@ repositories {
     maven("https://repo.papermc.io/repository/maven-public/")
     maven("https://oss.sonatype.org/content/repositories/snapshots")
     maven("https://repo.codemc.org/repository/maven-public/") // PacketEvents
-    maven("https://hub.jeff-media.com/nexus/repository/jeff-media-public/") // MorePDTs
+    maven("https://repo.jeff-media.com/public") // MorePDTs
 }
 
 dependencies {
